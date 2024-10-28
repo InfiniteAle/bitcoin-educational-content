@@ -1,0 +1,9 @@
+descriere: |
+  RGB este un protocol pentru crearea de contracte pentru emiterea de active sau drepturi mai generice pe baza Bitcoin. Un contract definește drepturile emise și regulile de validare pentru a le transfera către proprietarii viitori.
+  
+  Protocolul adoptă modelul de validare din partea clientului, care constă în păstrarea tuturor datelor specifice tranzacției în afara lanțului, schimbul acestora doar între expeditor și destinatarul tranzacției și utilizarea blockchain-ului Bitcoin doar ca un angajament. Făcând acest lucru, se obțin avantaje de scalabilitate, confidențialitate și extensibilitate comparativ cu protocoalele alternative care păstrează toată logica pe lanț.
+  
+  Cele mai imediate cazuri de utilizare pentru RGB sunt emiterea de active fungibile și colectibile, dar protocolul este suficient de generalizat pentru a suporta și alte cazuri de utilizare, cum ar fi identitățile descentralizate, DNS-ul descentralizat și dovada-publicării.
+  
+contribuitori:
+  - rabbit-hole

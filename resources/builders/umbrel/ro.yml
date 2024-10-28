@@ -1,0 +1,6 @@
+description: |
+  Umbrel este un sistem de operare open-source care permite utilizatorilor să ruleze un server personal în propria casă, oferind comoditatea stocării în cloud cu intimitatea și controlul stocării datelor locale.
+  
+  Utilizatorii pot găzdui singuri diverse aplicații, inclusiv Nextcloud pentru stocare privată în cloud, PhotoPrism pentru stocarea fotografiilor și videoclipurilor, și noduri personale Bitcoin și Lightning pentru tranzacții bitcoin. Umbrel include de asemenea propriul magazin de aplicații pentru aplicații auto-găzduite suplimentare, capacități de blocare a reclamelor și integrări pentru automatizarea casei.
+contributors:
+  - rabbit-hole

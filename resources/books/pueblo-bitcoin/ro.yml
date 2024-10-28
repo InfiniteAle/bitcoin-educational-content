@@ -1,0 +1,18 @@
+titlu: "Satul Bitcoin"
+anul_publicării: 2023
+copertă: cover_en.webp
+original: true
+descriere: |
+  Cu "Satul Bitcoin", autorul ne conduce printr-o călătorie informativă prin această tehnologie, explorând de la originile banilor până la nucleul protocolului computerizat. De asemenea, oferă reflecții asupra impacturilor sociale și politice, definind fundațiile pe care Bitcoin le pune pentru o societate mai echitabilă și mai conștientă.
+contribuitori:
+  - another-satoshi
+
+# Metadate corectură
+limba_originală: en
+corectură:
+  - limba: en
+    data_ultimei_contribuții:
+    urgență: 1
+    id_contribuitori:
+      - davidecoltro
+    recompensă:

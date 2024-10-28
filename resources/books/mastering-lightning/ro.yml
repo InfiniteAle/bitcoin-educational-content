@@ -1,0 +1,8 @@
+titlu: "Stăpânirea Lightning"
+anul_publicării: 2020
+copertă: cover_en.webp
+original: true
+descriere: |
+  "Stăpânirea Lightning" de Andreas M. Antonopoulos și René Pickhardt este o carte de nivel intermediar despre Lightning Network, o soluție de scalare de nivel 2 pentru Bitcoin. Cartea acoperă detaliile tehnice ale modului în care funcționează Lightning Network, precum și impactul său potențial asupra scalabilității și confidențialității Bitcoin. Autorii oferă instrucțiuni pas cu pas despre cum să configurezi un nod Lightning și să utilizezi portofele Lightning, și discută, de asemenea, implicațiile sociale și economice ale tehnologiei. În general, cartea este o resursă valoroasă pentru oricine este interesat să înțeleagă Lightning Network și rolul său în viitorul Bitcoin.
+contribuitori:
+  - rabbit-hole

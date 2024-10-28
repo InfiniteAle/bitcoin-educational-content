@@ -1,0 +1,8 @@
+title: "Arta Programării în Unix"
+publication_year: 2003
+cover: cover_en.webp
+original: true
+description: |
+  Arta Programării în Unix de Eric S. Raymond este un ghid de nivel intermediar care explorează filozofia, principiile de design și aspectele practice ale programării în Unix. Acesta acoperă subiecte precum mediul de programare Unix, scriptarea în shell, apelurile de sistem și comunicația între procese. Cu explicații clare și exemple, cartea evidențiază puterea și flexibilitatea Unix-ului ca platformă de programare, punând accent pe simplitate și design modular. De asemenea, discută despre istoria și natura colaborativă a dezvoltării Unix. În general, oferă perspective valoroase pentru dezvoltatorii care doresc să-și îmbunătățească abilitățile de programare în Unix.
+contributors:
+  - rabbit-hole
