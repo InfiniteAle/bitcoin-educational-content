@@ -1,7 +1,7 @@
 ---
-name: Obținerea primelor tale bitcoin
-goal: Obținerea primelor tale bitcoin și stocarea lor în siguranță într-un portofel Bitcoin folosind o frază mnemonică și un plan de moștenire.
-objectives:
+name: Obținerea primilor tăi bitcoini
+goal: Obținerea primilor tăi bitcoini și stocarea lor în siguranță într-un portofel Bitcoin folosind o frază mnemonică și un plan de moștenire.
+obiective:
   - Actualizează-ți securitatea online
   - Înțelege conceptele cheie legate de Bitcoin
   - Înființează-ți primul portofel adaptat nevoilor și resurselor tale
@@ -9,11 +9,11 @@ objectives:
   - Stabilește un plan de moștenire
 ---
 
-# O călătorie către primele tale bitcoin
+# O călătorie către primi tăi bitcoini
 
 Industria din jurul Bitcoinului este în plină expansiune.
 
-Schimbările tehnologice și financiare din această lume nouă se accelerează doar, și ține de tine să profiți și să începi să explorezi Gaura de Iepure a Bitcoinului. Această aventură va fi bogată în cunoștințe și te va împinge să îți pui la îndoială multe dintre convingerile tale. Îți va reda libertatea și îți va permite să recâștigi intimitatea, suveranitatea și independența financiară.
+Schimbările tehnologice și financiare din această nouă lume nu fac decât să se accelereze, și ține de tine să profiți și să începi să explorezi Gaura de Iepure a Bitcoinului. Această aventură va fi bogată în cunoștințe și te va împinge să îți pui la îndoială multe dintre convingerile tale. Îți va reda libertatea și va permite să îți recâștigi intimitatea, suveranitatea și independența financiară.
 
 Pentru a te ajuta să începi această aventură, am creat acest curs gratuit. Doar Bitcoin, fără nonsensuri, fără alte criptomonede, un curs direct la obiect. Acest curs a fost conceput pentru a se adapta ție și pentru a te lăsa să alegi calea care ți se potrivește.
 
@@ -22,14 +22,14 @@ Pentru a te ajuta să începi această aventură, am creat acest curs gratuit. D
 # Introducere și prerechizite pentru a înțelege Bitcoin
 <partId>008c49b7-5e17-5973-87f2-ba28429b2697</partId>
 
-## Introducere în cursul BTC102
+## Introducere la cursul BTC102
 <chapterId>bfc96999-0ee1-5c41-8297-1b629f50cffc</chapterId>
 
-Bine ai venit la BTC 102! Un curs practic care te va ghida în stabilirea planului tău Bitcoin! Prin acest curs, ne vom pregăti să obținem primele noastre bitcoin, să le securizăm corespunzător și să asigurăm o intrare lină în această industrie nouă.
+Bine ai venit la BTC 102! Un curs practic care te va ghida în stabilirea planului tău Bitcoin! Prin acest curs, ne vom pregăti să obținem primi noștri bitcoini, să-i securizăm corespunzător și să asigurăm o intrare lină în această nouă industrie.
 
 Industria Bitcoin este încă tânără și considerată un fenomen în continuă evoluție. În ciuda multor ani de încercări de a reglementa această piață, rămâne extrem de liberă datorită naturii protocolului său de bază.
 
-Pentru că nu poate fi reglementat în totalitate, Bitcoin a putut să crească organic și descentralizat de peste 14 ani. Prin urmare, este o industrie în plină explozie embrionară și este dornică să continue să crească.
+Pentru că nu poate fi reglementat în totalitate, Bitcoin a putut să crească organic și descentralizat timp de peste 14 ani. Prin urmare, este o industrie în plină explozie embrionară și este dornică să continue să crească.
 
 Cu o explozie de inovații și posibilități vin și înșelătoriile, fraudele și riscurile. Este de la sine înțeles că călătoria ta în Bitcoin nu va fi fără obstacole sau greșeli. Cu toate acestea, pentru a te ajuta să le eviți pe cât posibil, acest curs va servi ca un ghid practic pentru a începe. Pe de altă parte, cursul BTC 101 este mai teoretic pentru a înțelege cum funcționează Bitcoin.
 
@@ -37,7 +37,7 @@ Cu o explozie de inovații și posibilități vin și înșelătoriile, fraudele
 
 - Revizuirea noțiunilor de bază și a prerechizitelor pentru a ne asigura că nu suntem înșelați sau că nu ne pierdem banii în mod prostesc.
 - Revizuirea fundamentală a motivului pentru care Bitcoin este important și înțelegerea industriei sale. Acest lucru ne va întări convingerile și ne va ajuta să înțelegem în ce ne angajăm.
-- Înființarea primului tău portofel Bitcoin și efectuarea primei achiziții de Bitcoin prin intermediul unei platforme de schimb. Aici, vom căuta soluția cea mai potrivită pentru nevoile tale. În final, ultima secțiune va aborda un concept fundamental pentru securitatea ta, dar care este prea des neglijat în industrie: cum să creezi un plan de moștenire Bitcoin.
+- Înființarea primului tău portofel Bitcoin și efectuarea primei achiziții de Bitcoin prin intermediul unui exchange. Aici, vom căuta soluția cea mai potrivită pentru nevoile tale. În final, ultima secțiune va aborda un concept fundamental pentru securitatea ta, dar care este prea des neglijat în industrie: cum să creezi un plan de moștenire Bitcoin.
 
 După cum poți vedea, scopul acestui antrenament este să te însoțească astfel încât să aderi de la început la cele mai bune practici ale industriei noastre, într-un mod simplu și rapid!
 
@@ -61,7 +61,7 @@ Domeniul criptomonedelor, inclusiv Bitcoin, rămâne relativ tânăr și puțin 
 - Deviație / Hard Fork
 - Hack-uri
 - Ransom fals
-- Escrocherii cu parola
+- Înșelăciuni cu parole
 - Hijacking de cartele SIM
 
 ![scam](assets/prerequis/6.webp)
