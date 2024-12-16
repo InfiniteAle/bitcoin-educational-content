@@ -1,4 +1,4 @@
-descriere: |
+description: |
   Hodl Hodl este o platformă de tranzacționare Bitcoin sigură și non-custodială, care îți prețuiește intimitatea. Cu peste 7 ani de activitate, platforma facilitează tranzacții anonime peer-to-peer în condițiile tale, suportând peste 100 de monede, cu mai mult de 100.000 de utilizatori înregistrați și 50.000 de tranzacții finalizate.
   
   Platforma funcționează cu contracte multisig (P2SH), ceea ce înseamnă că tu controlezi cheile fondurilor în escrow pe parcursul întregii tranzacții. Nu este necesară verificarea, permițând o experiență de tranzacționare fără probleme și privată.
@@ -6,5 +6,5 @@ descriere: |
   Procesul de a începe tranzacționarea este simplu. Utilizatorii se angajează într-un contract, iar Hodl Hodl generează o adresă unică de escrow multisig. Vânzătorul depune bitcoinii în escrow direct din portofelul său, iar cumpărătorul plătește vânzătorul conform metodei de plată convenite. În final, vânzătorul eliberează bitcoinii din escrow direct în portofelul cumpărătorului, completând contractul.
   
   Hodl Hodl îți permite să creezi o ofertă în condițiile tale, să îți stabilești prețul, să folosești multiple metode de plată și să setezi o valoare de stop-loss. Taxele transparente ale platformei sunt împărțite între cumpărător și vânzător și sunt deduse din suma în BTC. Cu Hodl Hodl, poți tranzacționa global, folosind orice sistem de plată, pentru orice monedă.
-contribuitori:
+contributors:
   - rabbit-hole

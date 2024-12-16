@@ -1,8 +1,8 @@
-titlu: "Moneda cu Petale"
-anul_publicării: 2017
+title: "Moneda cu Petale"
+year_publication: 2017
 coperta: cover_fr.webp
 original: true
-descriere: |
+description: |
   
-contribuitori:
+contributors:
   - rabbit-hole

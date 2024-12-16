@@ -1,4 +1,4 @@
-descriere: |
+description: |
   IVPN este un serviciu VPN concentrat pe confidențialitate, care nu înregistrează activitatea utilizatorilor și nu colectează sau stochează date personale la înregistrare. Acceptăm plăți în numerar, Monero și Bitcoin. Ne dedicăm transparenței și securității, cu site-ul nostru web și toate aplicațiile IVPN fiind open-source.
   
   Serverele noastre, inclusiv emailul și chatul live, sunt auto-găzduite și operate de noi. Ne angajăm la audituri de securitate independente anuale și nu ne lăsăm atrași în publicitate falsă, cum ar fi plata pentru recenzii sau promisiunea anonimatului.
@@ -8,5 +8,5 @@ descriere: |
   Funcțiile noastre includ o alegere între protocoalele WireGuard, OpenVPN sau IPSec, AntiTracker care blochează reclamele și urmăritorii, opțiunea Killswitch/Firewall, servere DNS private fără înregistrare, rute VPN multi-hop, port forwarding și Obfsproxy pentru a ocoli cenzura.
   
   Deși clarificăm că VPN-urile nu pot atinge anonimatul sau preveni colectarea datelor de către giganți precum Google sau Facebook, asigurăm că un VPN de încredere ca al nostru poate cripta eficient datele și cererile DNS, poate crește securitatea pe rețele publice neîncredere, poate masca adresa IP și poate ocoli cenzura sau blocările geografice. Suntem o parte de încredere a strategiei tale de protecție a confidențialității, cu condiția să ne acorzi mai multă încredere decât furnizorului tău de internet.
-contribuitori:
+contributors:
   - rabbit-hole

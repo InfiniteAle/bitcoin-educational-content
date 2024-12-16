@@ -1,6 +1,6 @@
-descriere: |
+description: |
   Peach este o aplicație mobilă care funcționează ca o platformă peer-to-peer pentru cumpărarea și vânzarea de Bitcoin.
   
   Aceasta permite utilizatorilor să efectueze tranzacții oriunde, oricând, folosind metoda lor preferată de plată. Aplicația împuternicește utilizatorii să-și stabilească propriile prețuri pentru tranzacții, reflectând adevărata natură a unei piețe peer-to-peer. Important, Peach permite tranzacții fără KYC (Know Your Customer), menținând aspectele fundamentale de confidențialitate ale Bitcoin. Etosul companiei provine din credința în Bitcoin ca fiind cea mai solidă formă de bani care a existat vreodată, având misiunea de a-l face accesibil tuturor fără compromisuri.
-contribuitori:
+contributors:
   - rabbit-hole

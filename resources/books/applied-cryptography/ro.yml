@@ -1,8 +1,8 @@
-titlu: "Criptografie Aplicată"
-anul_publicării: 1993
+title: "Criptografie Aplicată"
+year_publication: 1993
 coperta: cover_en.webp
 original: true
-descriere: |
+description: |
   Criptografie Aplicată este o carte scrisă de Bruce Schneier, un expert în domeniul securității informatice și al criptografiei. Cartea oferă o introducere în principiile și conceptele fundamentale ale criptografiei și acoperă o gamă largă de subiecte, incluzând criptarea simetrică și asimetrică, funcțiile de hash, semnăturile digitale, managementul cheilor și protocoalele securizate. De asemenea, se aprofundează în istoria criptografiei și explorează riscurile potențiale și limitările sistemelor criptografice. Cartea este o resursă esențială pentru oricine este interesat de domeniul criptografiei, de la începători la experți.
-contribuitori:
+contributors:
   - rabbit-hole

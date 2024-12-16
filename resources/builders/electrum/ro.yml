@@ -1,6 +1,6 @@
-descriere: |
+description: |
   Electrum este un portofel Bitcoin versatil care prioritizează siguranța utilizatorilor și flexibilitatea.
   
   Suportă multiple platforme, inclusiv mobile, desktop și interfețe de linie de comandă. Cheile tale private sunt criptate și păstrate pe dispozitivul tău, asigurând că acestea nu sunt niciodată expuse. Mai mult, Electrum folosește o frază secretă pentru a permite recuperarea fondurilor și oferă acces rapid la blockchain-ul Bitcoin prin rețeaua sa de servere. Suportă stocarea offline "cold storage" pentru a păstra cheile private în siguranță și oferă capacități multisig pentru a împărți permisiunea de cheltuire a monedelor. Electrum verifică de asemenea toate tranzacțiile din istoricul tău folosind Verificarea Simplificată a Plății (SPV) și permite integrări de plugin-uri terțe, ca serviciile multisig și portofelele hardware.
-contribuitori:
+contributors:
   - rabbit-hole

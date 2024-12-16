@@ -1,4 +1,4 @@
-descriere: |
+description: |
   Bitshala este o inițiativă educațională de bază, condusă de comunitate (un pathshala) inițiată de entuziaști indieni ai bitcoinului, concepută pentru a ghida și a sprijini noii dezvoltatori pe măsură ce își încep călătoria în lumea Bitcoin.
 
   Deși numeroase cursuri oferă lecții superficiale despre EVM și "contracte inteligente", dezvoltarea pentru Bitcoin necesită o înțelegere mult mai profundă și mai largă a diferitelor domenii tehnice.
@@ -7,5 +7,5 @@ descriere: |
 
   Bitshala își propune să umple acest gol prin promovarea creării, curării și publicării de conținut divers, open-source, care să răspundă nevoilor unice de învățare ale aspiranților dezvoltatori Bitcoin.
 
-contribuitori:
+contributors:
   - rabbit-hole

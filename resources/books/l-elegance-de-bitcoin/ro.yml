@@ -1,8 +1,8 @@
-titlu: "Eleganța Bitcoin"
-anul_publicării: 2024
-copertă: cover_fr.webp
+title: "Eleganța Bitcoin"
+year_publication: 2024
+cover: cover_fr.webp
 original: true
-descriere: |
+description: |
   Bitcoin reprezintă un model inovator de monedă digitală descentralizată, a cărui existență a zguduit 
   ordinea stabilită oferind o alternativă îndrăzneață sistemului bancar tradițional. De la crearea sa 
   enigmatică de către Satoshi Nakamoto în 2008, Bitcoin a cunoscut o creștere explozivă care 
@@ -12,5 +12,5 @@ descriere: |
   precum și principiile economice, ideologice și tehnice care i-au asigurat supraviețuirea 
   într-un mediu ostil. Vei ieși cu o înțelegere a Bitcoinului care ar putea transforma 
   viziunea ta asupra lumii. Această carte este disponibilă în prezent doar în limba franceză.
-contribuitori:
+contributors:
   - pretty-private

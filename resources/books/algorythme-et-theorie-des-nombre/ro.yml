@@ -1,8 +1,8 @@
-titlu: "Algoritmi și Teoria Numerelor"
+title: "Algoritmi și Teoria Numerelor"
 an_publicație: 2014
-copertă: cover_fr.webp
+cover: cover_fr.webp
 original: true
-descriere: |
+description: |
   Cartea "Algoritmi și Teoria Numerelor" de Pierre Audibert este o lucrare de referință pentru studenții și profesioniștii din domeniul matematicii și informaticii. Cartea pătrunde adânc în teoria numerelor și algoritmii utilizați pentru a rezolva probleme complexe în acest câmp. Autorul acoperă, de asemenea, subiecte conexe precum teoria grupurilor, geometria algebrică și criptografia, și oferă exemple practice pentru a ilustra conceptele cheie. Această carte este destinată cititorilor experimentați care au cunoștințe anterioare de teoria numerelor și programare, dar poate fi de asemenea utilă pentru studenții avansați și cercetătorii din aceste domenii.
-contribuitori:
+contributors:
   - rabbit-hole

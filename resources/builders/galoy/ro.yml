@@ -1,4 +1,4 @@
-descriere: |
+description: |
   Galoy oferă o platformă de bază open-source pentru bănci, concepută pentru a lansa aplicații Bitcoin și Lightning la scară întreprinderii. Aceasta facilitează dezvoltarea accelerată a soluțiilor de banking Bitcoin prin intermediul unei infrastructuri auto-găzduite sau a unei implementări de tip "Banking-as-a-Service" gestionată.
 
   Platforma permite organizațiilor să lanseze o bancă comunitară Bitcoin folosind un model de custodie partajată și un portofel Lightning ușor de utilizat. Este aceeași tehnologie care a ajutat Bitcoin Beach să construiască o economie circulară. Această infrastructură dovedită poate fi utilizată și de guverne pentru a oferi servicii financiare ale secolului 21 oricui are un telefon mobil și o conexiune la internet.
@@ -6,5 +6,5 @@ descriere: |
   Fondată pe convingerea că Bitcoin este bani, Galoy împuternicește organizațiile de orice dimensiune să creeze propria lor bancă bazată pe Bitcoin. A fost coloana vertebrală a proiectului Bitcoin Beach Wallet în El Zonte, El Salvador, care a jucat un rol esențial în dezvoltarea unei economii Bitcoin sustenabile și a înregistrat o creștere semnificativă de la adoptarea Bitcoin ca mijloc legal de plată în țară.
 
   Galoy este puntea pentru organizațiile care doresc să se integreze cu rețeaua Lightning și un far pentru contribuitorii open-source care aspiră să construiască un sistem financiar mai bun.
-contribuitori:
+contributors:
   - rabbit-hole

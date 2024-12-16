@@ -1,8 +1,8 @@
-titlu: "Internetul Banilor (Volumul 2)"
-anul_publicării: 2016
-copertă: cover_en.webp
+title: "Internetul Banilor (Volumul 2)"
+year_publication: 2016
+cover: cover_en.webp
 original: true
-descriere: |
+description: |
   Internetul Banilor (Volumul 2) de Andreas Antonopoulos este o carte de nivel începător care explorează intersecția dintre Bitcoin, finanțe și economie. Publicată în 2017, această carte face parte dintr-o serie în care Antonopoulos analizează diverse aspecte ale Bitcoin și impactul său asupra societății.
-contribuitori:
+contributors:
   - rabbit-hole

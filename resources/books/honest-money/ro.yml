@@ -1,8 +1,8 @@
-titlu: "Bani Onesti"
-anul_publicării: 1986
+title: "Bani Onesti"
+year_publication: 1986
 coperta: cover_en.webp
 original: true
-descriere: |
+description: |
   
-contribuitori:
+contributors:
   - rabbit-hole

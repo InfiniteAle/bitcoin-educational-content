@@ -1,8 +1,8 @@
-titlu: "Cartea lui Satoshi"
-anul_publicării: 2014
-copertă: cover_en.webp
+title: "Cartea lui Satoshi"
+year_publication: 2014
+cover: cover_en.webp
 original: true
-descriere: |
+description: |
   Cartea lui Satoshi de Phil Champagne este o colecție de scrieri cheie și corespondențe de Satoshi Nakamoto, creatorul Bitcoin. Oferă o privire intimă asupra motivațiilor și filozofiei din spatele creării și dezvoltării Bitcoin, precum și perspective asupra tehnologiei și impactului său potențial asupra lumii. Prin intermediul cărții, cititorii pot obține o înțelegere mai profundă a istoriei și principiilor Bitcoin, precum și a potențialului său de a transforma sistemul financiar actual. Este o lectură obligatorie pentru oricine este interesat de criptomonede, tehnologia blockchain și viitorul finanțelor.
-contribuitori:
+contributors:
   - rabbit-hole

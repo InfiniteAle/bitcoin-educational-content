@@ -1,8 +1,8 @@
-titlu: "Bitcoin Alpha"
-anul_publicării: 2020
-copertă: cover_en.webp
+title: "Bitcoin Alpha"
+year_publication: 2020
+cover: cover_en.webp
 original: true
-descriere: |
+description: |
   
-contribuitori:
+contributors:
   - rabbit-hole

@@ -1,8 +1,8 @@
-titlu: "Internetul Banilor"
+title: "Internetul Banilor"
 an_publicație: 2016
-copertă: cover_en.webp
+cover: cover_en.webp
 original: true
-descriere: |
+description: |
   "Internetul Banilor" de Andreas Antonopoulos este o carte care explică bazele Bitcoin și tehnologia sa de bază. În acest volum, Antonopoulos se concentrează pe fundamentele monedei digitale, inclusiv povestea sa de origine, potențialul său revoluționar și obstacolele pe care trebuie să le depășească pentru a fi adoptat pe scară largă. De asemenea, explorează implicațiile mai largi ale Bitcoin pentru societate și economie, explorând potențialul său de a perturba băncile tradiționale și instituțiile financiare, precum și capacitatea sa de a împuternici indivizii și de a promova libertatea financiară. Această carte este o introducere excelentă în lumea Bitcoin pentru începătorii care doresc să afle mai multe despre această tehnologie revoluționară.
-contribuitori:
+contributors:
   - rabbit-hole

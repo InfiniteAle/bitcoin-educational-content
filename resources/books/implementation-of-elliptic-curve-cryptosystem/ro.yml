@@ -1,8 +1,8 @@
-titlu: "Implementarea Criptosistemului pe Curbe Eliptice"
+title: "Implementarea Criptosistemului pe Curbe Eliptice"
 anul_publicației: 2015
-copertă: cover_en.webp
+cover: cover_en.webp
 original: true
-descriere: |
+description: |
   
-contribuitori:
+contributors:
   - rabbit-hole

@@ -1,6 +1,6 @@
-descriere: |
+description: |
   Wasabi Wallet este conceput pentru cei care prețuiesc intimitatea, într-o lume unde supravegherea informațiilor și utilizarea abuzivă sunt la ordinea zilei.
 
   Fiind un software cu zero cunoștințe, asigură că tranzacțiile bitcoin ale utilizatorului rămân o afacere privată. Wasabi Wallet este open-source, permițând oricui să verifice sau să contribuie la cod. Designul său este fără încredere, asigurând că nici publicul, nici dezvoltatorii nu pot încălca intimitatea ta. Portofelul este non-custodial, permițându-ți să menții controlul asupra cheilor tale private și să atingi adevărata suveranitate financiară. În ciuda caracteristicilor sale avansate, Wasabi este conceput să fie ușor de utilizat și să gestioneze intimitatea automat. Utilizează WabiSabi, un sistem de acreditări anonime, pentru a face coinjoin-urile mai accesibile și eficiente. În plus, este accesibil ca preț, percepe o taxă modestă pentru coinjoining monede peste 0.01 BTC, în timp ce intrările de 0.01 BTC sau mai jos și remixurile sunt libere de taxe de coordonator.
-contribuitori:
+contributors:
   - rabbit-hole

@@ -1,4 +1,4 @@
-descriere: |
+description: |
   Am creat Rigly pentru ca toată lumea să se poată bucura de minarea bitcoinului. În zilele de început ale bitcoinului, oricine putea să mineze bitcoin pe propriul computer. Odată cu trecerea timpului, bitcoinul a crescut și echipamente specializate - GPU-uri, apoi FPGA-uri, și acum ASIC-uri - au devenit necesare pentru minare. Astăzi, platformele de minare ASIC necesită investiții semnificative și management, și sunt adesea instalate aproape de centralele energetice. Rigly îți permite să cumperi putere de hash de la acești mineri și să participi la minare.
-contribuitori:
+contributors:
   - rabbit-hole

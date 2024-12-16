@@ -1,8 +1,8 @@
-titlu: "Banii Bitcoin"
-anul_publicării: 2019
-copertă: cover_en.webp
+title: "Banii Bitcoin"
+year_publication: 2019
+cover: cover_en.webp
 original: true
-descriere: |
+description: |
   
-contribuitori:
+contributors:
   - rabbit-hole

@@ -1,8 +1,8 @@
-titlu: "Noapte Bună, Bitcoin"
-anul_publicării: 2018
-copertă: cover_en.webp
+title: "Noapte Bună, Bitcoin"
+year_publication: 2018
+cover: cover_en.webp
 original: true
-descriere: |
+description: |
   O cărticică distractivă pentru a explora bitcoinul împreună cu copiii tăi :)
-contribuitori:
+contributors:
   - rabbit-hole

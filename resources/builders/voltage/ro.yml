@@ -1,6 +1,6 @@
-descriere: |
+description: |
   Voltage este o platformă care oferă infrastructură de nivel enterprise pentru Lightning Network.
   
   Oferă diverse servicii pentru a ajuta afacerile și dezvoltatorii să construiască, să implementeze și să scaleze pe Lightning Network mai rapid. Produsele cheie includ Găzduirea Nodurilor pentru o gestionare fără probleme a nodurilor, Surge pentru insight-uri și alerte despre nodul tău, și Flow pentru crearea ușoară a canalelor Lightning. Platforma este concepută pentru a oferi control total, securitate criptată și disponibilitate online constantă. Voltage oferă de asemenea actualizări, ghiduri și insight-uri prin blogul său. Utilizatorii pot încerca platforma cu un trial gratuit de 7 zile.
-contribuitori:
+contributors:
   - rabbit-hole

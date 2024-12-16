@@ -1,8 +1,8 @@
-titlu: "Dosar Permanent"
-anul_publicării: 2019
+title: "Dosar Permanent"
+year_publication: 2019
 coperta: cover_en.webp
 original: true
-descriere: |
+description: |
   
-contribuitori:
+contributors:
   - rabbit-hole

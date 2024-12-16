@@ -1,8 +1,8 @@
-titlu: "Programarea Bitcoin"
-anul_publicării: 2019
-copertă: cover_en.webp
+title: "Programarea Bitcoin"
+year_publication: 2019
+cover: cover_en.webp
 original: true
-descriere: |
+description: |
   "Programarea Bitcoin" de Jimmy Song este o carte de nivel intermediar care combină finanțele, investițiile și tehnologia pentru a oferi cititorilor o înțelegere aprofundată a funcționării celei mai populare criptomonede din lume, Bitcoin. Cartea este destinată cititorilor cu oarecare cunoștințe anterioare de programare și știința calculatoarelor și acoperă subiecte precum scripting-ul Bitcoin, criptografia și verificarea tranzacțiilor. Cu un accent pe învățarea practică, autorul îi ghidează pe cititori prin procesul de scriere a codului pentru tranzacțiile Bitcoin, implementarea contractelor inteligente și crearea propriilor portofele Bitcoin. Pe parcurs, cititorii vor obține înțelegeri despre psihologia investiției în Bitcoin și cum să ia decizii informate în această piață care evoluează rapid.
-contribuitori:
+contributors:
   - rabbit-hole

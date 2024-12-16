@@ -1,8 +1,8 @@
-titlu: "Indicele Oului Fierte Tare"
+title: "Indicele Oului Fierte Tare"
 anul_publicației: 2021
-copertă: cover_en.webp
+cover: cover_en.webp
 original: true
-descriere: |
+description: |
   
-contribuitori:
+contributors:
   - rabbit-hole

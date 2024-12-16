@@ -1,8 +1,8 @@
-titlu: "Criptoeconomia"
-anul_publicării: 2018
-copertă: cover_en.webp
+title: "Criptoeconomia"
+year_publication: 2018
+cover: cover_en.webp
 original: true
-descriere: |
+description: |
   "Principiile Fundamentale ale Bitcoin" de Eric Voskuil explorează intersecția dintre Bitcoin, Economia Austriacă și principiile economice raționale. Cu un conținut dens și un accent pe provocarea înțelegerilor comune despre Bitcoin, această carte oferă o explorare cuprinzătoare a propunerii sale de valoare, modelului de securitate și comportamentului economic. Bazându-se pe experiența autorului ca pilot de luptă cu experiență în combat, informatician și antreprenor, "Criptoeconomia" integrează diverse perspective pentru a oferi o înțelegere holistică a Bitcoin. Oferă perspective dincolo de analizele economice și tehnologice tradiționale, făcând-o o resursă valoroasă pentru cei care caută o înțelegere mai profundă a complexităților și potențialului Bitcoin.
-contribuitori:
+contributors:
   - rabbit-hole

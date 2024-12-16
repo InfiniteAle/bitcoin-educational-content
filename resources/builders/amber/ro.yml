@@ -1,7 +1,7 @@
-descriere: |
+description: |
   Amber este o aplicație mobilă dedicată simplificării tranzacțiilor cu Bitcoin.
 
   Concepută pentru dispozitive iOS și Android, Amber oferă o platformă rapidă, sigură și ușor de utilizat pentru cumpărarea, vânzarea și gestionarea Bitcoin. Focalizarea exclusivă pe Bitcoin asigură tranzacții eficiente, în timp ce măsurile de securitate, inclusiv autentificarea, criptarea și custodia colaborativă, oferă utilizatorilor liniște sufletească. Cu funcția sa de mediere a costului în dolari (DCA), Amber permite utilizatorilor să stabilească un program regulat pentru achiziționarea de Bitcoin, făcând-o un instrument convenabil atât pentru utilizatorii noi, cât și pentru cei experimentați în utilizarea Bitcoin.
 
-contribuitori:
+contributors:
   - rabbit-hole

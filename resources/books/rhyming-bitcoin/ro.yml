@@ -1,8 +1,8 @@
-titlu: "Bitcoin în Rime"
+title: "Bitcoin în Rime"
 anul_publicației: 2019
-copertă: cover_en.webp
+cover: cover_en.webp
 original: true
-descriere: |
+description: |
   
-contribuitori:
+contributors:
   - rabbit-hole

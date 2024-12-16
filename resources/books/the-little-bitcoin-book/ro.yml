@@ -1,8 +1,8 @@
-titlu: "Micul Carte despre Bitcoin"
-anul_publicării: 2019
-copertă: cover_en.webp
+title: "Micul Carte despre Bitcoin"
+year_publication: 2019
+cover: cover_en.webp
 original: true
-descriere: |
+description: |
   Micul Carte despre Bitcoin este o carte prietenoasă cu începătorii care acoperă noțiunile de bază despre Bitcoin și tehnologia din spatele acestuia, precum și potențialul său de a transforma industria financiară. Conține capitole scrise de diverși experți în domeniu, fiecare explorând un aspect diferit al Bitcoin, inclusiv istoria, economia, confidențialitatea și securitatea acestuia. Cartea este concepută pentru a fi accesibilă cititorilor fără cunoștințe anterioare despre Bitcoin sau criptomonede, făcând-o un punct de plecare excelent pentru cei interesați să afle mai multe despre această tehnologie inovatoare.
-contribuitori:
+contributors:
   - rabbit-hole
