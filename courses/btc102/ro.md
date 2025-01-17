@@ -1,7 +1,7 @@
 ---
 name: Obținerea primilor tăi bitcoini
 goal: Obținerea primilor tăi bitcoini și stocarea lor în siguranță într-un portofel Bitcoin folosind o frază mnemonică și un plan de moștenire.
-obiective:
+objectives:
   - Actualizează-ți securitatea online
   - Înțelege conceptele cheie legate de Bitcoin
   - Înființează-ți primul portofel adaptat nevoilor și resurselor tale
