@@ -5,14 +5,14 @@ objectives:
 
   - Obțineți o înțelegere generală a tehnologiei Bitcoin
   - Înțelegeți cum să cumpărați și să securizați bitcoini
-  - Să aibă o înțelegere generală a tehnologiei Blockchain
-  - Familiarizarea cu conceptul de rețea Lightning
+  - O înțelegere generală a tehnologiei Blockchain
+  - Familiarizarea cu conceptul de Lightning Network
   - Realizarea impactului geopolitic și social al Bitcoin
 
 ---
 # Prima ta aventură Bitcoin
 
-În acest curs, vom explica elementele de bază ale Bitcoin în 25 de capitole, astfel încât să puteți înțelege această tehnologie într-un mod simplu și eficient. Cursul explorează elementele de bază ale industriei ca întreg, inclusiv subiecte precum mineritul, portofelele, platformele de cumpărare/vânzare și multe altele. Materiale educaționale suplimentare vor fi disponibile pe parcursul parcursului și, de asemenea, vă invităm să verificați "21 de postere" din secțiunea de resurse după ce ați terminat acest curs.
+În acest curs, vom explica elementele de bază ale Bitcoin în 25 de capitole, astfel încât să puteți înțelege această tehnologie într-un mod simplu și eficient. Cursul explorează elementele de bază ale industriei, inclusiv subiecte precum miningul, portofelele, platformele de cumpărare/vânzare și multe altele. Materiale educaționale suplimentare vor fi disponibile de-a lungul călătoriei și, de asemenea, vă invităm să verificați "21 de postere" din secțiunea de resurse după ce ați terminat acest curs.
 
 Nu aveți nevoie de cunoștințe specifice pentru a începe. De fapt, următorul conținut este accesibil studenților de toate nivelurile și ar trebui să dureze aproximativ 15 ore pentru a-l termina.
 
@@ -29,7 +29,7 @@ Nu aveți nevoie de cunoștințe specifice pentru a începe. De fapt, următorul
 
 Bitcoin este o revoluție tehnologică și monetară, capabilă să ne facă să punem la îndoială relația noastră cu banii și cu societatea. De fapt, Bitcoin (denumit BTC) este o monedă **neutră** și **descentralizată**, ceea ce înseamnă că nu este controlată de nicio entitate sau instituție. Este o inovație care merge dincolo de o simplă "monedă de internet": este atât un protocol informatic (Bitcoin), cât și o unitate monetară (bitcoin).
 
-Protocolul utilizează tehnologii de bază precum criptografia, comunicarea în rețea și celebrul "blockchain", în timp ce unitatea bitcoin servește drept moneda necesară pentru buna funcționare a acestui protocol. În viața de zi cu zi, salvadorienii și bitcoinerii din întreaga lume folosesc moneda bitcoin pentru a cumpăra și vinde bunuri și servicii, bazându-se pe această tehnologie pentru a-și îmbunătăți viața.
+Protocolul utilizează tehnologii de bază precum criptografia, comunicarea în rețea și celebra "blockchain", în timp ce unitatea bitcoin servește drept moneda necesară pentru buna funcționare a acestui protocol. În viața de zi cu zi, Salvadorienii și bitcoinerii din întreaga lume folosesc moneda bitcoin pentru a cumpăra și vinde bunuri și servicii, bazându-se pe această tehnologie pentru a-și îmbunătăți viața.
 
 ### Un curriculum cuprinzător, dar accesibil
 
@@ -37,7 +37,7 @@ Protocolul utilizează tehnologii de bază precum criptografia, comunicarea în 
 
 ![image](assets/en/01.webp)
 
-Este esențial să înțelegem că Bitcoin este un nou sistem monetar care schimbă complet relația noastră cu banii, astfel încât învățarea modului de utilizare a acestuia este o abilitate necesară pentru oricine dorește să dețină controlul asupra propriilor fonduri.
+Este esențial să înțelegem că Bitcoin este un nou sistem monetar care schimbă complet relația noastră cu banii, astfel învățarea modului de utilizare a acestuia este o abilitate necesară pentru oricine dorește să dețină controlul asupra propriilor fonduri.
 
 **Secțiunea 1 - Bani**
 
@@ -67,15 +67,15 @@ Este esențial să înțelegem că Bitcoin este un nou sistem monetar care schim
 
 
 - Capitolul 13 - Prețul Bitcoin
-- Capitolul 14 - Cum cumperi Bitcoin?
-- Lecția 15 - Munca pentru Bitcoin
+- Capitolul 14 - Cum să cumperi Bitcoin?
+- Capitolul 15 - Munca pentru Bitcoin
 - Capitolul 16 - Hiper-bitcoinizarea
 
-**Secțiunea 5 - Rețeaua Lightning**
+**Secțiunea 5 - Lightning Network**
 
 
-- Capitolul 17 - Introducere în rețeaua Lightning
-- Capitolul 18 - Cazuri de utilizare a rețelei Lightning
+- Capitolul 17 - Introducere la Lightning Network
+- Capitolul 18 - Cazuri de utilizare a Lightning Network
 
 Înainte de a prezenta definiția banilor și funcția lor în societate (capitolul 1), ar trebui să pornim de la geneza Bitcoin. Lansat în 2009, Bitcoin este o tehnologie relativ nouă, diferită de orice altceva. Prin urmare, este normal să nu înțelegem totul despre ea, dintr-o dată. De fapt, la fel ca atunci când învățați să utilizați internetul sau să conduceți o mașină, nu trebuie să cunoașteți imediat toate detaliile tehnice: puteți începe prin a învăța cum să primiți, să plătiți și să vă asigurați fondurile, iar apoi să faceți pași mici pentru a o studia mai profund.
 
@@ -89,7 +89,7 @@ Important aici este să înțelegeți această nouă tehnologie într-un mod gen
 
 <chapterId>9a94b627-5b69-5d81-9125-f1fa9b0aa6ad</chapterId>
 
-Înainte ca termenul "Bitcoin" să devină sinonim cu moneda digitală și transformarea financiară, bazele pentru crearea sa au fost puse de o serie de idei, inovații și mișcări sociale. Dintre acestea, mișcarea cypherpunk se remarcă ca un element-cheie în preistoria Bitcoin.
+Înainte ca termenul "Bitcoin" să devină sinonim cu moneda digitală și transformare financiară, bazele pentru crearea sa au fost construite printr-o serie de idei, inovații și mișcări sociale. Dintre acestea, mișcarea cypherpunk se remarcă ca un element-cheie în preistoria Bitcoin.
 
 ### Cypherpunks: vizionari ai lumii digitale
 
@@ -97,13 +97,13 @@ Important aici este să înțelegeți această nouă tehnologie într-un mod gen
 
 În mijlocul evoluției tehnologice din anii 1980 și 1990, un grup de persoane a început să pună profund sub semnul întrebării rolul vieții private și al libertății în era digitală. Aceste persoane, care mai târziu vor fi cunoscute sub numele de "cypherpunks", credeau cu tărie că criptografia poate servi drept instrument de protecție a drepturilor individuale împotriva intervenției guvernelor și a marilor corporații.
 
-Personalități emblematice precum Julian Assange, Wei Dai, Tim May și David Chaum au jucat un rol esențial în conturarea filosofiei și viziunii mișcării. Acești gânditori și-au împărtășit ideile pe o listă de discuții influentă, unde participanți din întreaga lume s-au angajat în dezbateri cu privire la cele mai bune modalități de a valorifica tehnologia pentru o mai mare libertate individuală.
+Personalități emblematice precum Julian Assange, Wei Dai, Tim May și David Chaum au jucat un rol esențial în conturarea filosofiei și viziunii mișcării. Acești gânditori și-au împărtășit ideile pe o influentă mailing list, unde participanți din întreaga lume s-au angajat în dezbateri cu privire la cele mai bune modalități de a valorifica tehnologia pentru o mai mare libertate individuală.
 
 ### Cele trei documente fundamentale ale Cypherpunks
 
 ![image](assets/en/04.webp)
 
-Mișcarea cypherpunk, adânc înrădăcinată în activismul digital și criptografie, s-a bazat pe mai multe texte fundamentale pentru a-și articula principiile și viziunea asupra viitorului. Dintre aceste scrieri, trei ies în evidență în mod special:
+Mișcarea cypherpunk, adânc înrădăcinată în activismul digital și criptografia, s-a bazat pe mai multe texte fundamentale pentru a-și articula principiile și viziunea asupra viitorului. Dintre aceste scrieri, trei ies în evidență în mod special:
 
 
 - "Manifestul Cypherpunk":
