@@ -122,7 +122,7 @@ deși nu este exclusiv cypherpunk, acest text reflectă sentimentele multor part
 
 ### Predecesorii Bitcoin
 
-Înainte de apariția Bitcoin, au existat mai multe încercări de a crea o monedă digitală. De exemplu, David Chaum a introdus conceptul de "monedă electronică anonimă" cu proiectul său "DigiCash" în anii 1980. Din păcate, din cauza diferitelor constrângeri, DigiCash nu a cunoscut niciodată un boom.
+Înainte de apariția Bitcoin, au existat mai multe încercări de a crea o monedă digitală. De exemplu, David Chaum a introdus conceptul de "monedă electronică anonimă" cu proiectul său "DigiCash" în anii 1980. Din păcate, din cauza diferitelor constrângeri, DigiCash nu a avut niciodată un boom.
 
 Un alt precursor important este "B-money" al lui Wei Dai. Deși nu a fost niciodată pusă în aplicare, aceasta a prezentat ideea unei monede digitale anonime în care detectarea fraudelor era realizată de o comunitate de evaluatori, mai degrabă decât de o autoritate centrală.
 
@@ -130,7 +130,7 @@ Imaginea de mai jos ilustrează clar dezvoltarea mișcării prin numeroasele sal
 
 ![image](assets/en/05.webp)
 
-În acest mediu fertil, misteriosul Satoshi Nakamoto a publicat Whitepaper-ul Bitcoin în 2008. În acest document, el a combinat mai multe idei din mișcarea cypherpunk, cum ar fi proof of work și timestamps criptografic, pentru a crea o monedă digitală descentralizată și rezistentă la cenzură.
+În acest mediu fertil, misteriosul Satoshi Nakamoto a publicat Whitepaper-ul Bitcoin în 2008. În acest document, el a combinat mai multe idei din mișcarea cypherpunk, cum ar fi proof of work și timestamps criptografice, pentru a crea o monedă digitală descentralizată și rezistentă la cenzură.
 
 Cu toate acestea, Bitcoin a fost mai mult decât atât: a reprezentat realizarea idealurilor cypherpunk. Dincolo de tehnologia sa, a simbolizat o revoluție împotriva sistemelor financiare tradiționale și a oferit o alternativă bazată pe transparență, descentralizare și suveranitate individuală.
 
@@ -170,10 +170,10 @@ Astfel, pe măsură ce civilizațiile avansau și comerțul se extindea la noi r
 Banii sunt un instrument de comunicare extrem de sofisticat:
 
 
-- Ea permite comunicarea între prezent și viitor, deoarece transformă timpul și energia noastră într-un activ care poate fi reutilizat în viitor fără riscul devalorizării.
-- Acesta facilitează comunicarea într-un limbaj universal: fără să se cunoască sau să vorbească aceeași limbă, doi străini pot face schimburi, comerț și pot conveni asupra valorii lucrurilor.
+- Permit comunicarea între prezent și viitor, deoarece transformă timpul și energia noastră într-un activ care poate fi reutilizat în viitor fără riscul devalorizării.
+- Facilitează comunicarea într-un limbaj universal: fără să se vorbească aceeași limbă, doi străini pot face schimburi, comerț și pot conveni asupra valorii lucrurilor.
 
-Funcția sa în lumea noastră este dificil de reprodus artificial. De fapt, niciun individ sau grup nu poate crea bani, aceștia fiind un fenomen natural care trebuie să apară din piață și din consensul voluntar. În acest sens, prețurile servesc drept semnale și informații care ghidează societatea în alocarea resurselor.
+Funcția lor în lumea noastră este dificil de reprodus artificial. De fapt, niciun individ sau grup nu poate crea bani, aceștia fiind un fenomen natural care trebuie să apară de pe piață și din consensul voluntar. În acest sens, prețurile servesc drept semnale și informații care ghidează societatea în alocarea resurselor.
 
 Din aceste motive, aurul ca monedă este rezultatul a 4.000 de ani de darwinism monetar bazat pe următoarele funcții aristotelice:
 
@@ -190,7 +190,7 @@ Din aceste motive, aurul ca monedă este rezultatul a 4.000 de ani de darwinism 
 
 ### Caracteristicile banilor
 
-Aurul îndeplinește în mod ideal criteriile unei monede eficiente: raritatea sa naturală îl face valoros, în timp ce proprietățile sale chimice garantează că nu se erodează în timp. Aceste caracteristici au făcut din aur un excelent **magazin de valoare**, dar nu o monedă obișnuită, deoarece această formă de bani nu este ușor divizibilă sau transportabilă pe distanțe lungi. Într-o lume globalizată și digitală, aurul se luptă să țină pasul și are nevoie de o entitate centrală care să îl facă divizibil și ușor schimbabil (de exemplu, prin monede bătute).
+Aurul îndeplinește în mod ideal criteriile unei monede eficiente: raritatea sa naturală îl face valoros, în timp ce proprietățile sale chimice garantează că nu se erodează în timp. Aceste caracteristici au făcut din aur un excelent **store of value**, dar nu o monedă obișnuită, deoarece această formă de bani nu este ușor divizibilă sau transportabilă pe distanțe lungi. Într-o lume globalizată și digitală, aurul se luptă să țină pasul și are nevoie de o entitate centrală care să îl facă divizibil și ușor schimbabil (de exemplu, prin monede bătute).
 
 La polul opus, monedele fiduciare de stat (fiat) sunt ușor de utilizat, dar sunt constant devalorizate de entitățile care le controlează (regi, bănci centrale, împărați, dictatori).
 
@@ -212,7 +212,7 @@ Pentru a îndeplini aceste criterii, moneda a evoluat istoric prin diferite etap
 
 Monedele continuă să evolueze și astăzi, adaptându-și formele pentru a răspunde diferitelor cazuri de utilizare. Așa cum am spus, deși aurul este un excelent depozit de valoare, acesta nu mai este potrivit pentru economia globalizată actuală. În mod similar, monedele fiduciare, cum ar fi dolarul și euro, sunt foarte lichide și ușor de transportat, deoarece acum sunt în mare parte digitale, dar valoarea lor este în mod constant redusă de inflația monetară.
 
-Pe de altă parte, Bitcoin prezintă noi posibilități. Proprietățile sale, cum ar fi oferta strict limitată, îl fac un excelent depozit de valoare. În plus, în calitate de monedă neutră pe internet, aceasta servește drept **mijloc de schimb** viabil care depășește frontierele. Cu toate acestea, ea nu este încă acceptată pe scară largă în comerț, în ciuda [adoptării sale constante] (https://btcmap.org/map).
+Pe de altă parte, Bitcoin prezintă noi posibilități. Proprietățile sale, cum ar fi oferta strict limitată, îl fac un excelent depozit de valoare. În plus, în calitate de monedă neutră pe internet, aceasta servește drept **mijloc de schimb** viabil care depășește frontierele. Cu toate acestea, nu este încă acceptat pe scară largă în comerț, în ciuda [adoptării sale constante] (https://btcmap.org/map).
 
 ## Valute fiduciare
 
@@ -223,9 +223,9 @@ Un adevăr care rezonează perfect când vine vorba de sistemul monetar actual.
 
 ### Fiduciar = Încredere
 
-În prezent, monedele importante precum euro și dolarul sunt considerate fiduciare. Aceasta înseamnă că nu au valoare intrinsecă și depind în întregime de încrederea pe care o acordăm instituțiilor care le guvernează.
+În prezent, monedele importante precum euro și dolarul sunt considerate fiduciare. Asta înseamnă că nu au valoare intrinsecă și depind în întregime de încrederea pe care o acordăm instituțiilor care le guvernează.
 
-O monedă fiduciară este o formă de bani care este decretată ca atare de o instituție, și anume un stat, precum China cu yuanul, sau o uniune politico-economică, precum Uniunea Europeană cu euro. Entitatea însărcinată cu emiterea sa este banca centrală (de exemplu, putem menționa Banca Populară a Chinei, Rezerva Federală a Statelor Unite sau Banca Centrală a Republicii Guineea). Tocmai aceste entități sunt responsabile de formularea politicii monetare și, prin urmare, de cantitatea de bani care trebuie pusă în circulație sau tipărită.
+O monedă fiduciară este o formă de bani care este decretată ca atare de o instituție, și anume un stat, precum China cu yuanul, sau o uniune politico-economică, precum Uniunea Europeană cu euro. Entitatea responsabilă cu emiterea sa este banca centrală (de exemplu, putem menționa Banca Populară a Chinei, Rezerva Federală a Statelor Unite sau Banca Centrală a Republicii Guineea). Tocmai aceste entități sunt responsabile de formularea politicii monetare și, prin urmare, de cantitatea de bani care trebuie pusă în circulație sau tipărită.
 
 ![image](assets/en/12.webp)
 
@@ -253,7 +253,7 @@ Astăzi, suntem martorii unui punct de cotitură istoric. Dolarul, care a domina
 
 ### Este Bitcoin o soluție?
 
-Datorită acestor premise, revoluția Bitcoin capătă amploare. Spre deosebire de monedele anterioare, aceasta nu necesită **nici o terță parte de încredere** și urmărește să separe statul de bani.
+Datorită acestor premise, revoluția Bitcoin capătă amploare. Spre deosebire de monedele anterioare, aceasta nu necesită **nici o terță parte de încredere** și vizează separarea statului de bani.
 
 ![image](assets/en/15.webp)
 
@@ -261,11 +261,11 @@ De fapt, Bitcoin se prezintă ca un răspuns la aceste provocări sistemice prin
 
 ![image](assets/en/16.webp)
 
-Un alt motiv pentru care Bitcoin a captat atenția este apariția monedelor digitale ale băncilor centrale, sau CBDC, care pare inevitabilă. Această nouă formă de monedă ar dezvolta o economie planificată mai centralizat și ar putea atât să împiedice libertatea financiară a persoanelor, cât și să faciliteze abuzurile autoritare.
+Un alt motiv pentru care Bitcoin a captat atenția este apariția monedelor digitale ale băncilor centrale, sau CBDC, care pare inevitabilă. Această nouă formă de monedă ar dezvolta o economie planificată mai centralizata și ar putea atât să împiedice libertatea financiară a persoanelor, cât și să faciliteze abuzurile autoritare.
 
 Putem încheia acest capitol cu citatul lui F.A Hayek, laureat al Premiului Nobel în 1984:
 
-> "Nu cred că ar trebui să mai avem vreodată bani buni, înainte de a-i scoate din mâinile guvernului. Dacă nu le putem lua prin violență din mâinile guvernului, tot ce putem face este să introducem într-un mod viclean sau ocolit ceva ce ei nu pot opri."
+> "Nu cred că ar trebui să mai avem vreodată bani buni, înainte de a-i scoate din mâinile guvernului. Dacă nu-i putem lua prin violență din mâinile guvernului, tot ce putem face este să introducem într-un mod viclean sau ocolit ceva ce ei nu pot opri."
 Pentru a afla mai multe despre falsurile economice și libertate, vă invităm să descoperiți cursul nostru ECO 102, care urmărește viața și ideile lui Frédéric Bastiat, un gânditor francez din secolul al XIX-lea care ar fi apreciat cu siguranță apariția Bitcoin:
 
 https://planb.network/courses/d07b092b-fa9a-4dd7-bf94-0453e479c7df
@@ -273,7 +273,7 @@ https://planb.network/courses/d07b092b-fa9a-4dd7-bf94-0453e479c7df
 
 <chapterId>b04c024c-54f3-50cb-997f-58721cfc74be</chapterId>
 
-Hiperinflația este un fenomen monetar specific monedelor fiat: este cartatizată prin pierderea completă a încrederii într-o monedă și creșterea drastică a inflației ca urmare a tipăririi monetare de către autorități. Ca urmare, economiile acumulate de indivizi se pot risipi într-o perioadă relativ scurtă de timp, împingând țara în pragul colapsului economic, social și politic.
+Hiperinflația este un fenomen monetar specific monedelor fiat: este caracterizată de pierderea completă a încrederii într-o monedă și creșterea drastică a inflației ca urmare a tipăririi monetare de către autorități. Ca urmare, economiile acumulate de indivizi se pot risipi într-o perioadă relativ scurtă de timp, împingând țara în pragul colapsului economic, social și politic.
 
 ### Inflația se dezlănțuie!
 
