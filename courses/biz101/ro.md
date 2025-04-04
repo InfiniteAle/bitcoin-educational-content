@@ -9,7 +9,7 @@ objectives:
   - Să fii pregătit pentru gestionarea cerințelor fiscale și contabile
 
 ---
-# Începeți călătoria companiei dvs. în rețeaua bitcoin
+# Dă startul călătoriei companiei tale în rețeaua bitcoin
 
 Descoperiți capacitățile practice ale Bitcoin și ale rețelei Lightning și explorați modul în care, la fel ca internetul, acestea vă poate **transforma operațiunile de afaceri**. De la capital digital la plăți rapide, economice și scalabile, Bitcoin oferă un spectru vast de **cazuri de utilizare pentru întreprinderi**.
 
